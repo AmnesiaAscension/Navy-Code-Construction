@@ -1,0 +1,7 @@
+{
+  "name": "Navy Code Construction",
+  "description": "A high-converting, professional landing page for a veteran-owned construction company specializing in decks, patios, and home improvements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
